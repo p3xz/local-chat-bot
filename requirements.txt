@@ -1,0 +1,2 @@
+# Runtime only, no training deps. Python 3.10+
+# Ollama is installed separately from https://ollama.com

@@ -1,0 +1,8 @@
+# Training only, GPU recommended. Install after requirements.txt
+unsloth
+transformers
+trl
+datasets
+accelerate
+peft
+torch

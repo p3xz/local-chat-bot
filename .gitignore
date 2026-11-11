@@ -1,0 +1,11 @@
+# Never commit real chat files or training data
+data/*.txt
+data/*.jsonl
+data/*.json
+output/
+*.bin
+*.safetensors
+.venv/
+__pycache__/
+chat_history.jsonl
+style.json
